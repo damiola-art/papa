@@ -1,0 +1,31 @@
+body {
+  color: black;
+}
+
+h1 {
+  color: cornflowerblue;
+  font-family: sans-serif;
+}
+
+.eth {
+  color: cornflowerblue;
+  font-family: "Mukta", sans-serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.navbut {
+  color: gray;
+}
+
+.wallat {
+  padding-right: 50%;
+}
+
+.nav2 {
+  color: gray !important;
+}
+.size {
+  width: 300px;
+  height: 150px;
+}
